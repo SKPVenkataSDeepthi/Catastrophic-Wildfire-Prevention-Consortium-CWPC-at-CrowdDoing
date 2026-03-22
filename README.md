@@ -123,11 +123,12 @@ Data Analyst working on data, dashboards, maps, and AI for wildfire prevention.
 [LinkedIn](https://www.linkedin.com/in/dvskp/)
 
 
-## Closing Note
-Where data meets purpose.  
-Where technology meets impact.  
-Where projects become solutions.
+## Where Data Meets Purpose
 
-Thanks for exploring my work.
+This project sits at the intersection of data, technology, and real-world impact, where dashboards tell stories, maps show risks, and data helps communities prepare for the future.
+
+From geospatial analysis and dashboards to AI chatbots and sentiment analysis, this work focuses on using data not just for analysis, but for impact.
+
+Thanks for exploring this project.
 
 © 2026 Venkata Sri Deepthi SriKotaPeetambaram | Prevent Wildfire – Data & AI Project
