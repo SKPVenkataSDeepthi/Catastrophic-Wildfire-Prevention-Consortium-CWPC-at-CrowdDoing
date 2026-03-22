@@ -1,4 +1,4 @@
-# Catastrophic-Wildfire-Prevention-Consortium-CWPC-at-CrowdDoing
+# Catastrophic Wildfire Prevention Consortium CWPC at CrowdDoing
 <p align="center">
   <img src="https://preventwildfire.world/images/header-footer/newlogo3.svg" width="500">
 </p>
