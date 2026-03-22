@@ -119,7 +119,7 @@ I work with a global team at the Catastrophic Wildfire Prevention Consortium (CW
 **Venkata Sri Deepthi SriKotaPeetambaram**  
 Data Analyst working on data, dashboards, maps, and AI for wildfire prevention.
 
-⭐ If this project interests you, let’s connect, collaborate, or build something impactful together.
+⭐ If this project interests you, let’s connect, collaborate, or build something impactful together: 
 [LinkedIn](https://www.linkedin.com/in/dvskp/)
 
 ---
