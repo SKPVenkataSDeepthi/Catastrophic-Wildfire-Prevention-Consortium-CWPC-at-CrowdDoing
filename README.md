@@ -3,12 +3,13 @@
   <img src="https://preventwildfire.world/images/header-footer/newlogo3.svg" width="500">
 </p>
 
----
+
 **Organization:** Match4Foundation – CrowdDoing  
 **Project:** Prevent Wildfire  
 **Website:** https://preventwildfire.world/
 
 ---
+
 ## My Contributions
 
 ### 1. Innovator Map – Data Visualization
@@ -17,9 +18,9 @@
 - Created dashboards to help users explore wildfire innovation efforts globally.
 - Tools Used: Power BI / Tableau / Python (Pandas, Matplotlib, MapBox)
 
-![Innovator Map](images/innovator_map_dashboard.png)
+![Innovator Map](Images/innovator_map_dashboard.png)
 
----
+
 
 ### 2. Chatbot for Donation Feature
 - Developed a chatbot to assist users with donation-related queries.
@@ -27,9 +28,8 @@
 - Improved user engagement and simplified donation flow.
 - Tools Used: Python, NLP, Dialogflow / OpenAI API
 
-![Donation Chatbot](images/donation_chatbot.png)
+![Donation Chatbot](Images/donation_chatbot.png)
 
----
 
 ### 3. Vegetation Management Data Analysis – Community Wildfire Mitigation
 - Analyzed vegetation and wildfire risk data to identify high-risk areas.
@@ -37,9 +37,8 @@
 - Performed data cleaning, analysis, and visualization.
 - Tools Used: Python, Pandas, GIS Data, Data Visualization
 
-![Vegetation Analysis](images/vegetation_analysis.png)
+![Vegetation Analysis](Images/vegetation_analysis.png)
 
----
 
 ### 4. Scorecard Data Analysis
 - Performed data analysis for project scorecards and performance tracking.
@@ -47,9 +46,8 @@
 - Helped stakeholders monitor progress and key metrics.
 - Tools Used: Excel, SQL, Power BI
 
-![Scorecard Dashboard](images/scorecard_dashboard.png)
+![Scorecard Dashboard](Images/scorecard_dashboard.png)
 
----
 
 ### 5. Sentiment Analysis for News Page
 - Conducted sentiment analysis on wildfire-related news articles.
@@ -57,9 +55,9 @@
 - Helped understand public perception and awareness about wildfires.
 - Tools Used: Python, NLP, TextBlob / VADER
 
-![Sentiment Analysis](images/sentiment_analysis.png)
+![Sentiment Analysis](Images/sentiment_analysis.png)
 
----
+
 
 ## Tools & Technologies Used
 
@@ -88,7 +86,7 @@
 - Sentiment Analysis
 - Geospatial Data Analysis
 
----
+
 
 ## Key Skills Demonstrated
 - Data Analysis
@@ -101,7 +99,6 @@
 - Database Management
 - Social Impact Data Projects
 
----
 
 ## Impact of My Work
 - Improved wildfire awareness through data visualization.
@@ -110,3 +107,28 @@
 - Built dashboards for decision-making and impact tracking.
 - Analyzed public sentiment on wildfire news.
 
+## My Team
+
+I work with a global team at the Catastrophic Wildfire Prevention Consortium (CWPC) at CrowdDoing, where data, technology, and social impact come together to build solutions for wildfire prevention and community resilience.
+
+[Meet the Team – CWPC at CrowdDoing](https://preventwildfire.world/about)
+
+---
+
+## Author
+**Venkata Sri Deepthi SriKotaPeetambaram**  
+Data Analyst working on data, dashboards, maps, and AI for wildfire prevention.
+
+⭐ If this project interests you, let’s connect, collaborate, or build something impactful together.
+[LinkedIn](https://www.linkedin.com/in/dvskp/)
+
+---
+
+## Closing Note
+Where data meets purpose.  
+Where technology meets impact.  
+Where projects become solutions.
+
+Thanks for exploring my work.
+
+© 2026 Venkata Sri Deepthi SriKotaPeetambaram | Prevent Wildfire – Data & AI Project
