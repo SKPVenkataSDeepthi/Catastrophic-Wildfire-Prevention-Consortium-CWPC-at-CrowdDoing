@@ -29,7 +29,7 @@ This repository documents the research, analysis, and feature enhancements propo
 
 ### 2. 📊 Donation Platform Comparative Analytics & Scoring Framework  
 
-![Chatbot](https://raw.githubusercontent.com/SKPVenkataSDeepthi/Catastrophic-Wildfire-Prevention-Consortium-CWPC-at-CrowdDoing/main/Images/chatbot_architecture.png)
+![Comparative Analytics](https://github.com/SKPVenkataSDeepthi/Catastrophic-Wildfire-Prevention-Consortium-CWPC-at-CrowdDoing/blob/main/Images/comparative_analysis.png)
 
 - Conducted benchmarking of leading donation platforms  
 - Built a structured scoring model based on:
@@ -48,7 +48,7 @@ This repository documents the research, analysis, and feature enhancements propo
 
 ### 3. 🤖 Chatbot for Donation Support  
 
-![Tech Stack](https://raw.githubusercontent.com/SKPVenkataSDeepthi/Catastrophic-Wildfire-Prevention-Consortium-CWPC-at-CrowdDoing/main/Images/tech_stack.png)
+![Chatbot](https://raw.githubusercontent.com/SKPVenkataSDeepthi/Catastrophic-Wildfire-Prevention-Consortium-CWPC-at-CrowdDoing/main/Images/chatbot_architecture.png)
 
 - Designed and developed a chatbot integrated within the donation flow  
 
@@ -67,7 +67,7 @@ This repository documents the research, analysis, and feature enhancements propo
 
 ## 🧰 Tech Stack  
 
-![Dashboard](https://raw.githubusercontent.com/SKPVenkataSDeepthi/Catastrophic-Wildfire-Prevention-Consortium-CWPC-at-CrowdDoing/main/Images/dashboard.png)
+![Tech Stack](https://raw.githubusercontent.com/SKPVenkataSDeepthi/Catastrophic-Wildfire-Prevention-Consortium-CWPC-at-CrowdDoing/main/Images/tech_stack.png)
 
 ### 🔹 AI / ML & NLP  
 - Large Language Models (LLMs)  
