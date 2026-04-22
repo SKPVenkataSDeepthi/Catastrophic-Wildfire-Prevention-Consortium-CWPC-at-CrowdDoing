@@ -14,7 +14,7 @@ This repository documents the research, analysis, and feature enhancements propo
 
 ### 1. 💳 Transaction Fee & Multi-Currency Support Findings  
 
-![Transaction Fee Analysis](Images/transaction_fee.png)
+![Transaction Fee Analysis](https://github.com/SKPVenkataSDeepthi/Catastrophic-Wildfire-Prevention-Consortium-CWPC-at-CrowdDoing/blob/main/Images/transaction_fee.png)
 
 - Analyzed existing donation flow and associated transaction costs  
 - Identified inefficiencies in payment processing fees across providers  
@@ -87,7 +87,7 @@ This repository documents the research, analysis, and feature enhancements propo
 
 ### 🔹 Dashboards & Visualization  
 
-![Dashboard Insights](Images/dashboard.png)
+![Dashboard Insights](https://github.com/SKPVenkataSDeepthi/Catastrophic-Wildfire-Prevention-Consortium-CWPC-at-CrowdDoing/blob/main/Images/dashboard.png)
 
 - Interactive dashboards for:
   - Platform comparison insights  
