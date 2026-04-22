@@ -1,7 +1,7 @@
 # Donate Feature – Analysis & Enhancements  
 Project: https://preventwildfire.world/
 
-![Donate Feature Banner](Images/overview_banner.png)
+![Banner](https://raw.githubusercontent.com/SKPVenkataSDeepthi/Catastrophic-Wildfire-Prevention-Consortium-CWPC-at-CrowdDoing/main/Images/overview_banner.png)
 
 ---
 
@@ -29,7 +29,7 @@ This repository documents the research, analysis, and feature enhancements propo
 
 ### 2. 📊 Donation Platform Comparative Analytics & Scoring Framework  
 
-![Platform Comparison Dashboard](Images/comparative_analysis.png)
+![Chatbot](https://raw.githubusercontent.com/SKPVenkataSDeepthi/Catastrophic-Wildfire-Prevention-Consortium-CWPC-at-CrowdDoing/main/Images/chatbot_architecture.png)
 
 - Conducted benchmarking of leading donation platforms  
 - Built a structured scoring model based on:
@@ -48,7 +48,7 @@ This repository documents the research, analysis, and feature enhancements propo
 
 ### 3. 🤖 Chatbot for Donation Support  
 
-![Chatbot Architecture](Images/chatbot_architecture.png)
+![Tech Stack](https://raw.githubusercontent.com/SKPVenkataSDeepthi/Catastrophic-Wildfire-Prevention-Consortium-CWPC-at-CrowdDoing/main/Images/tech_stack.png)
 
 - Designed and developed a chatbot integrated within the donation flow  
 
@@ -67,7 +67,7 @@ This repository documents the research, analysis, and feature enhancements propo
 
 ## 🧰 Tech Stack  
 
-![Tech Stack Architecture](Images/tech_stack.png)
+![Dashboard](https://raw.githubusercontent.com/SKPVenkataSDeepthi/Catastrophic-Wildfire-Prevention-Consortium-CWPC-at-CrowdDoing/main/Images/dashboard.png)
 
 ### 🔹 AI / ML & NLP  
 - Large Language Models (LLMs)  
@@ -118,8 +118,8 @@ This work focuses on analysis, design, and feature recommendations and does not 
 
 ## 🌍 Closing Thoughts  
 
-This project goes beyond optimizing a donation flow — it reimagines how technology can enable **trust, accessibility, and global impact**.
+This project goes beyond optimizing a donation flow, it reimagines how technology can enable **trust, accessibility, and global impact**.
 
-By combining **AI-driven assistance, data analytics, and seamless payment experiences**, the Donate feature becomes more than a transaction — it becomes a meaningful connection between people and purpose.
+By combining **AI-driven assistance, data analytics, and seamless payment experiences**, the Donate feature becomes more than a transaction, it becomes a meaningful connection between people and purpose.
 
 > Every donation is data. Every insight is impact. Every improvement helps protect our planet. 🌱🔥
