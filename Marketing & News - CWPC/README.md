@@ -46,13 +46,13 @@ This project uses **news data + sentiment analysis** to:
 ---
 
 ## 📂 Project Structure
+```bash
 wildfire-dashboard/
-│
-├── app.py # Main dashboard app
-├── wildfire_news_final.csv # Dataset
-├── wildfire_bg.jpg # Background image
-└── requirements.txt # Dependencies
-
+├── app.py
+├── wildfire_news_final.csv
+├── wildfire_bg.jpg
+└── requirements.txt
+```
 
 ---
 
