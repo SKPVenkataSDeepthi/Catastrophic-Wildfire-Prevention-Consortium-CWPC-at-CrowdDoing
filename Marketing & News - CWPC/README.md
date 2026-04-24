@@ -78,11 +78,12 @@ streamlit run app.py
 
 ---
 
-💡 Use Cases
-Disaster risk monitoring
-Environmental data analysis
-Policy & decision support
-News intelligence systems
+## 💡 Use Cases
+
+- Disaster risk monitoring  
+- Environmental data analysis  
+- Policy & decision support  
+- News intelligence systems  
 
 ---
 
