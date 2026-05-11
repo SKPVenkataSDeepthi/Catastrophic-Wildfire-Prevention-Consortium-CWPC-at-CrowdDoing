@@ -12,3 +12,6 @@ pytest
 httpx
 sentence-transformers
 google-generativeai
+streamlit
+pandas
+plotly

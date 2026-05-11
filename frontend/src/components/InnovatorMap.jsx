@@ -3,8 +3,7 @@ import { Source, Layer, Popup } from "react-map-gl";
 import "mapbox-gl/dist/mapbox-gl.css";
 import { useState } from "react";
 
-const MAPBOX_TOKEN =
-"pk.eyJ1IjoidmRza3A5OSIsImEiOiJjbXAxcjAycXAwOGZzMnNxMW8xcHAxN3ZsIn0.ylTLoVLw7rc4spy3lVbFXg";
+const MAPBOX_TOKEN = import.meta.env.VITE_MAPBOX_TOKEN;
 
 const wildfireData = {
 
