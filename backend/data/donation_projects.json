@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "AI Drone Fire Detection",
+    "location": "California",
+    "description": "AI-powered drone systems for early wildfire detection and emergency alerts.",
+    "goal": 50000,
+    "raised": 31250,
+    "impact": "Protecting 12 high-risk communities.",
+    "donate_url": "https://preventwildfire.world/"
+  },
+  {
+    "id": 2,
+    "title": "Smart Forest Sensor Grid",
+    "location": "Oregon",
+    "description": "IoT wildfire monitoring sensors across vulnerable forests.",
+    "goal": 75000,
+    "raised": 45500,
+    "impact": "Monitoring 40 square miles of wildfire-prone land.",
+    "donate_url": "https://preventwildfire.world/"
+  },
+  {
+    "id": 3,
+    "title": "Satellite Heat Mapping Initiative",
+    "location": "Colorado",
+    "description": "Satellite-assisted wildfire heat tracking for faster response.",
+    "goal": 100000,
+    "raised": 64800,
+    "impact": "Reducing emergency response time by 35%.",
+    "donate_url": "https://preventwildfire.world/"
+  }
+]
