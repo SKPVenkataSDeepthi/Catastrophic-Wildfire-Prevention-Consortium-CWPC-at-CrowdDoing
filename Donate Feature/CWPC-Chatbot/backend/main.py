@@ -17,9 +17,10 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Include chatbot routes
+# Include API routes
 app.include_router(router)
 
+# Health check route
 @app.get("/")
 def health_check():
     return {
