@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-from backend.api.routes import router
+from api.routes import router
 
 app = FastAPI(
     title="CWPC Chatbot API",
@@ -17,11 +17,11 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+# Include chatbot routes
 app.include_router(router)
 
 @app.get("/")
 def health_check():
-
     return {
         "status": "CWPC chatbot backend running"
     }
