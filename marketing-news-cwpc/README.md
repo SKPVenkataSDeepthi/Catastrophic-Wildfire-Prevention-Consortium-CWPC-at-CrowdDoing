@@ -5,7 +5,7 @@ An interactive data analytics dashboard that analyzes wildfire-related news sent
 ---
 
 ## 🚀 Live App
-👉 https://cwpc-news-sentiment-analysis.streamlit.app
+👉 https://catastrophic-wildfire-prevention-consortium-cwpc-at-crowddoing.streamlit.app/
 
 ---
 
